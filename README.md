@@ -1,9 +1,10 @@
 # Minwoo Jeong
 
-I am an aspiring data analyst and machine learning intern focused on turning structured data into clear business insights and practical decision support.
+I am an aspiring data analytics and SCM intern focused on turning structured data into clear business insights, demand planning decisions, and practical operational support.
 
 ## What I Focus On
 
+- data analysis for business and operations
 - demand forecasting and inventory optimization
 - customer churn prediction
 - tabular machine learning with Python
@@ -47,6 +48,6 @@ I am an aspiring data analyst and machine learning intern focused on turning str
 
 ## Current Goal
 
-I am building a stronger analytics portfolio for internship applications with projects in forecasting, classification, SQL analysis, and dashboards.
+I am building a stronger portfolio for data analytics and SCM internship applications with projects in forecasting, classification, SQL analysis, and operational decision support.
 
 Full portfolio hub: [data-analytics-portfolio](https://github.com/Mindeulaeggot/data-analytics-portfolio)
