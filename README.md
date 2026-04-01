@@ -1,6 +1,6 @@
 # Minwoo Jeong
 
-I am an aspiring data analytics and SCM intern focused on turning structured data into clear business insights, demand planning decisions, and practical operational support.
+I build data-driven solutions for business analysis and supply chain optimization.
 
 ## What I Focus On
 
