@@ -48,3 +48,5 @@ I am an aspiring data analyst and machine learning intern focused on turning str
 ## Current Goal
 
 I am building a stronger analytics portfolio for internship applications with projects in forecasting, classification, SQL analysis, and dashboards.
+
+Full portfolio hub: [data-analytics-portfolio](https://github.com/Mindeulaeggot/data-analytics-portfolio)
