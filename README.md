@@ -18,7 +18,7 @@ I build data-driven solutions for business analysis and supply chain optimizatio
 
 - built a retail demand forecasting workflow on `4.57M+` sales rows
 - compared baseline, Linear Regression, and Random Forest models
-- translated forecast output into safety stock and reorder point decisions
+- reduced MAE from `11.73` to `3.64` and translated forecast output into safety stock and reorder point decisions
 
 ### Customer Churn Prediction
 
