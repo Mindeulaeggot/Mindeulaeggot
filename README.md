@@ -36,13 +36,13 @@ Role in portfolio: flagship project for data analytics and SCM internship applic
 
 Role in portfolio: business-facing machine learning project that shows tabular analysis, model comparison, and insight generation
 
-### Machine Learning Notebook Portfolio
+### Web Scraping and Country Data Analysis
 
-[Machine-Learning](https://github.com/Mindeulaeggot/Machine-Learning)
+[worldometer-country-analysis](https://github.com/Mindeulaeggot/worldometer-country-analysis)
 
-- compact notebook portfolio covering core scikit-learn workflows
-- demonstrates preprocessing, validation, and model comparison basics
-- used as supporting evidence of hands-on ML practice rather than a flagship project
+- scraped and merged `218` country-level records from two public web sources
+- built a repeatable collection-to-analysis pipeline with Python
+- demonstrates data collection, cleaning, joining, and visualization in one project
 
 ## Portfolio Hub
 
@@ -67,5 +67,3 @@ Role in portfolio: business-facing machine learning project that shows tabular a
 I am building a stronger portfolio for data analytics and SCM internship applications with projects in forecasting, classification, SQL analysis, and operational decision support.
 
 Full portfolio hub: [data-analytics-portfolio](https://github.com/Mindeulaeggot/data-analytics-portfolio)
-
-Next upgrade priority: add a stronger web scraping plus data analysis project to complete the collection pipeline story.
