@@ -2,6 +2,10 @@
 
 I build data-driven solutions for business analysis and supply chain optimization.
 
+## Selected Projects for Applications
+
+These are the three projects I currently use most strongly for internship applications because together they show modeling, business interpretation, and end-to-end analytical workflow.
+
 ## What I Focus On
 
 - data analysis for business and operations
@@ -20,6 +24,8 @@ I build data-driven solutions for business analysis and supply chain optimizatio
 - compared baseline, Linear Regression, and Random Forest models
 - reduced MAE from `11.73` to `3.64` and translated forecast output into safety stock and reorder point decisions
 
+Role in portfolio: flagship project for data analytics and SCM internship applications
+
 ### Customer Churn Prediction
 
 [customer-churn-ml-project](https://github.com/Mindeulaeggot/customer-churn-ml-project)
@@ -28,7 +34,17 @@ I build data-driven solutions for business analysis and supply chain optimizatio
 - compared logistic regression and decision tree models
 - reached `0.9539` test accuracy and `0.9524` F1 with the decision tree model
 
-### Portfolio Hub
+Role in portfolio: business-facing machine learning project that shows tabular analysis, model comparison, and insight generation
+
+### Machine Learning Notebook Portfolio
+
+[Machine-Learning](https://github.com/Mindeulaeggot/Machine-Learning)
+
+- compact notebook portfolio covering core scikit-learn workflows
+- demonstrates preprocessing, validation, and model comparison basics
+- used as supporting evidence of hands-on ML practice rather than a flagship project
+
+## Portfolio Hub
 
 [data-analytics-portfolio](https://github.com/Mindeulaeggot/data-analytics-portfolio)
 
@@ -51,3 +67,5 @@ I build data-driven solutions for business analysis and supply chain optimizatio
 I am building a stronger portfolio for data analytics and SCM internship applications with projects in forecasting, classification, SQL analysis, and operational decision support.
 
 Full portfolio hub: [data-analytics-portfolio](https://github.com/Mindeulaeggot/data-analytics-portfolio)
+
+Next upgrade priority: add a stronger web scraping plus data analysis project to complete the collection pipeline story.
